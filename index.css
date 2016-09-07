@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+
+<!-- Hey this is a paragraph</>
+<a href="paragraph3"> Go to three</a>
+<p> I'm a diffrent stlye </p>
+<p class="diffrent">I have a diffrent style</p>
+<a href="contact.html">contact me!</a>
+<a href="http://www.google.com">Go to google</a>
+<!--<div class="button"> I'm a div tag! </div> -->
+<ol>
+<li> Item one </li>
+<li> Item two </li>
+<li> Item three </li>
+<li> Item four </li>
+<li> Item five </li>
+</ol>
+
+<ul>
+  <li> Item one </li>
+  <li> Item two </li>
+  <li> Item three </li>
+  <li> Item four </li>
+  <li> Item five </li>
+</ul>
+
+</body>
+</html>
